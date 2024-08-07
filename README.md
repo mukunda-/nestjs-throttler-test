@@ -1,4 +1,4 @@
-nestjs/throttler reproduction scenario
+nestjs/throttler reproduction scenario for issue 2074
 
 1. checkout
 2. npm i
